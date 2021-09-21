@@ -6,7 +6,7 @@ Source: https://github.com/hanhailong/GridPagerSnapHelper
 
 # Preview
 
-![](test.mp4)
+https://user-images.githubusercontent.com/26162164/134169613-954f0705-c12c-4517-954c-8c6bc685f6ed.mp4
 
 # Usage:
 
