@@ -132,19 +132,19 @@ Here, i have provided three transform order functions
 
 1. OneRowDataTransform
 
-    mapping one row,n column
+    mapping one row, n column
 2. TwoRowDataTransform
 
-    mapping two row,n column 
+    mapping two row, n column 
 3. ThreeRowDataTransform
 
-    mapping three row,n column
+    mapping three row, n column
 
 You can impl your custom row functions by extends **AbsRowDataTransform**
 
 # Why use AbsRowDataTransform?
 
-In general，horizontal direction GridLayoutManager layout like this:
+In general, horizontal direction GridLayoutManager layout like this:
 
 ![](https://raw.githubusercontent.com/hanhailong/GridPagerSnapHelper/master/screenshot/GridLayoutManager_Horizontal_Normal.png)
 
@@ -152,7 +152,7 @@ But, we want is the following case :
 
 ![](https://raw.githubusercontent.com/hanhailong/GridPagerSnapHelper/master/screenshot/GridLayoutManager_Horizontal_Tile.png)
 
-so,We need to make a transformation of the data.Here,**AbsRowDataTransform** can meet your needs.
+so, we need to make a transformation of the data.Here, **AbsRowDataTransform** can meet your needs.
 
 # Author
 
