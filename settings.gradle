@@ -1,0 +1,4 @@
+rootProject.name = "GridPagerSnapHelper"
+include ':app'
+include ':recyclerviewindicator'
+include ':gridpagersnaphelper'
